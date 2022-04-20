@@ -1,0 +1,21 @@
+1. A feladat megoldásához hozzon létre grafikus vagy konzolalkalmazást (projektet)
+HegyekMo azonosítóval!
+2. Az UTF-8 kódolású hegyekMo.txt állomány Magyarország legmagasabb hegyeinek
+adatait tartalmazza a következő minta szerint (forrás: wikipedia.hu):
+Hegycsúcs neve; Hegység; Magasság
+Ágasvár; Mátra; 789
+Bálvány; Bükk-vidék; 956
+Büszkés-hegy; Bükk-vidék; 952
+Cserepes-kő; Bükk-vidék; 823
+Az állományban a hegycsúcs nevét, a hegység megnevezését és a hegycsúcs
+magasságát (méter) tároltuk. Az adatokat pontosvessző választja el.
+Olvassa be a hegyekMo.txt állományban lévő adatokat és tárolja el egy olyan
+adatszerkezetben, ami a további feladatok megoldására alkalmas! A fájlban legfeljebb
+1000 sor lehet! Ügyeljen arra, hogy az állomány első sora az adatok fejlécét
+tartalmazza!
+3. Határozza meg és írja ki a képernyőre a minta szerint, hogy hány hegy található az
+állományban!
+4. Határozza meg és írja ki a képernyőre a minta szerint az állományban található hegyek
+átlagmagasságát!
+5. Határozza meg és írja ki a képernyőre a minta szerint a legmagasabb hegy adatait!
+Feltételezheti, hogy nem alakult ki holtverseny.
