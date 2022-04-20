@@ -19,3 +19,12 @@ tartalmazza!
 átlagmagasságát!
 5. Határozza meg és írja ki a képernyőre a minta szerint a legmagasabb hegy adatait!
 Feltételezheti, hogy nem alakult ki holtverseny.
+
+minta 
+
+3. feladat: Hegycsúcsok száma: 100 db
+4. feladat: Hegycsúcsok átlagos magassága: 872.66 m
+5. feladat: A legmagasabb hegycsúcs adatai:
+        Név: Kékes
+        Hegység: Mátra
+        Magasság: 1014 m
